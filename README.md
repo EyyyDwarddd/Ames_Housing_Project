@@ -36,7 +36,7 @@ Used Realtor.com to assess how the housing market is in Ames, IA. This gave me a
 
 ## Data Analysis:
 
-<img src = "https://git.generalassemb.ly/edwardmendoza89/project_2/blob/master/images/heatmap.png">
+<img src = "https://github.com/EyyyDwarddd/Ames_Housing_Project/blob/main/images/heatmap.png">
 
 Based on the correlation heat map that I produced, Overal Quality, Living Area, Garage Area, Garage Cars, and Total Bsmt SF all display a positively high correlation with the Sales Price in Ames, Iowa.
     
